@@ -1217,4 +1217,16 @@ zoome3.casino
 zoome6.casino
 zotabet.com
 
-# end-of-list  ---------------------------
+# ---------------end-of-ACMA-list  ---------------------------
+
+# ---------------- TIM ADDED DOMAINS BELOW HERE -----------------------
+bet365.com.au
+www.bet365.com.au
+www.ladbrokes.com.au
+www.ladbrokes.com
+ladbrokes.com.au
+ladbrokes.com
+
+# ---------------- end-of-TIM ADDED list -----------------------
+
+# ------- EoF-------
